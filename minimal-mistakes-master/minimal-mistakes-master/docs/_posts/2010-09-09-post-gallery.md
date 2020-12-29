@@ -1,5 +1,4 @@
 ---
-{% include choi-jaehyeok-21500749.github.io %}
 title: "Post: Gallery"
 categories:
   - Post Formats
