@@ -1,5 +1,4 @@
 ---
-encoding: UTF-8
 title: "Post: Gallery"
 categories:
   - Post Formats
